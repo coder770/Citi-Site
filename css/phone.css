@@ -74,7 +74,7 @@ body{
 .About-p {
     color: white;
     /* text-align: right; */
-    padding: 20px 0px 17px 51px;
+    padding: 20px 0px 17px 94px;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
 }
@@ -86,7 +86,7 @@ body{
     font-size: 1.7rem;
 }
 .About-btn{
-    margin: 0rem 5rem 0 0;
+    margin: 0.4rem 5rem 0 0;
     position: relative;
     right: -77px;
 }
@@ -120,7 +120,7 @@ body{
 }
 input{
     height: 3.5rem;
-    width: 20rem;
+    width: 22rem;
     /* border: 10px solid #4e8598; */
     border: 3px solid #00a8ad;
     margin-bottom: 20px;
