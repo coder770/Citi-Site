@@ -1,0 +1,133 @@
+body{
+    /* color: yellow; */
+}
+
+.navbar{
+    flex-wrap: wrap;
+    position: sticky;
+}
+/* .navbar ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 0.6rem;
+    font-family: 'Roboto', sans-serif;
+} */
+.navbar ul {
+    margin: auto;
+}
+.logo{
+    margin: auto;
+    margin-bottom: 8px;
+}
+.head-text1 {
+    font-size: 1.8rem;
+    margin-bottom: 1.6rem;
+}
+.header {
+    
+    height: 76vh;
+}
+.btn{
+    margin-top: 12px;
+}
+
+.p-text1 {
+  padding: 8px 8px;
+}
+#services{
+    flex-wrap: wrap;
+    width: 800px;
+    /* overflow: hidden; */
+    /* border: 2px solid green; */
+    display: inline-block;
+    width: 100%;
+}
+.services-h3 {
+    /* font-family: 'Roboto', sans-serif; */
+    /* text-align: center; */
+    margin-top: 13px;
+}
+
+.cards{
+    width: auto;
+    padding: 17px 5px;
+}
+.cards-p {
+    font-size: 1.2rem;
+    margin: 12px 7px;
+    /* color: yellow; */
+}
+
+
+
+
+#Contact{
+    flex-wrap: wrap;
+    /* overflow: hidden; */
+}
+
+#About{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.About-p {
+    color: white;
+    /* text-align: right; */
+    padding: 20px 0px 17px 51px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+.About-h1 {
+    color: white;
+    /* text-align: right; */
+    padding:104px 11px 13px 74px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.7rem;
+}
+.About-btn{
+    margin: 0rem 5rem 0 0;
+    position: relative;
+    right: -77px;
+}
+
+#Contact{
+    flex-wrap: wrap;
+    flex-direction: column;
+    /* width: 31rem; */
+    background: none;
+    display: inline-block;
+    width: 61%;
+    height: 443px;
+}
+.form-h1 {
+    width: 164%;
+    margin-bottom: 87px;
+    text-align: center;
+    font-size: 3rem;
+    color: #00a8ad;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    left: 0rem;
+    top: 53px;
+    font-size: 4rem;
+}
+.form{
+    position: static;
+    width: 78%;
+    /* border: 2px solid green; */
+    margin: auto;
+}
+input{
+    height: 3.5rem;
+    width: 20rem;
+    /* border: 10px solid #4e8598; */
+    border: 3px solid #00a8ad;
+    margin-bottom: 20px;
+     /* border-radius: 3rem; */
+}
+
+.f-btn{
+    width: 181%;
+}
+
